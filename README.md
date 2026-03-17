@@ -69,16 +69,15 @@ only in-scope targets pass through
 ### One-Line Install
 
 ```bash
-curl -sL <https://raw.githubusercontent.com/youruser/scope_checker/main/scope_checker.py> -o scope_checker.py && chmod +x scope_checker.py
+curl -sL <https://raw.githubusercontent.com/rohit-1006/Bug-Bounty-Scope-Validator/main/scope_checker.py> -o scope_checker.py && chmod +x scope_checker.py
 ```
 
 ### Clone & Setup
 
 ```bash
-git clone <https://github.com/youruser/scope_checker.git>
+git clone https://github.com/rohit-1006/Bug-Bounty-Scope-Validator.git
 cd scope_checker
 pip install -r requirements.txt   # optional: requests, pyyaml
-python scope_checker.py --self-test
 ```
 
 ### Requirements
