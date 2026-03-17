@@ -1,0 +1,31 @@
+# .gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# scope_checker data (user-specific, don't commit)
+# The scope database and credentials are per-user
+# Only commit scope YAML definitions if desired
+
+# OS
+.DS_Store
+Thumbs.db
