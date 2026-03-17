@@ -1,0 +1,8 @@
+# Core functionality works without any dependencies.
+# These are only needed for specific features:
+
+# Required for HackerOne / Bugcrowd API import
+requests>=2.31.0
+
+# Required for YAML import/export
+pyyaml>=6.0.1
