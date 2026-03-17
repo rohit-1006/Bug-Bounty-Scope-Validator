@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎯 scope_checker
+# 🎯Bug Bounty Scope Validator
 
 **Never waste time on out-of-scope targets again.**
 
