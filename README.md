@@ -903,5 +903,3 @@ testing out-of-scope targets at 3 AM.
 **Star ⭐ this repo if it saved you from an out-of-scope report.**
 
 </div>
-
-```
